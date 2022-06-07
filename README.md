@@ -6,7 +6,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-<!-- - 🔭 I’m currently working on -->
+- 🔭 I’m currently working on revising my MERN stack, Python, Django, PostgreSQL
 - 🌱 I’m currently learning Typescript, GoLang
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with full-stack development, looking to go to backend only!
