@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Typescript, GoLang
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with full-stack development, looking to go to backend only!
-- 💬 Ask me about anthing!
+- 💬 Ask me about anything!
 - 📫 How to reach me: czhenhao@hotmail.com; zhenhaoc@gmail.com;
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: MBTI INFJ/P, somehow people think I am big time extrovert, but I am really not
