@@ -22,3 +22,4 @@
 <!-- - 😄 Pronouns: ... -->
 
 - ⚡ Fun fact: MBTI INFJ/P, somehow people think I am big time extrovert, but I am really not
+- 😍 Favourite countries: 🇨🇦 Canada, 🇯🇵 Japan 
