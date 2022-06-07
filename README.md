@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on revising my MERN stack, Python, Django, PostgreSQL
 - 🌱 I’m currently learning Typescript, GoLang
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with full-stack development, looking to go to backend only!
+- 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev!
 - 💬 Ask me about anything!
 - 📫 How to reach me: czhenhao@hotmail.com; zhenhaoc@gmail.com;
 <!-- - 😄 Pronouns: ... -->
