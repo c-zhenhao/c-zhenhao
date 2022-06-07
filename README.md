@@ -7,9 +7,9 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on revising my MERN stack, Python, Django, PostgreSQL
-- 🌱 I’m currently learning Typescript, GoLang
+- 🌱 I’m currently learning Typescript, Socket.IO, GoLang
 - 📝 Planning to learn
-  - Blockchain langs: Solidity, Rust
+    - Blockchain langs: Solidity, Rust
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev!
 - 💬 Ask me about anything!
