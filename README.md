@@ -2,7 +2,7 @@
 
 <!-- **c-zhenhao/c-zhenhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-**please dont stalk me HAHA! especially SEI37 students**
+<span style="color:blue">**please dont stalk me HAHA! especially SEI37 students**</span>
 
 <!-- Here are some ideas to get you started: -->
 
