@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on revising my MERN stack, Python, Django, PostgreSQL
 
-- 🌱 I’m currently learning Typescript, Socket.IO, Angular, GoLang
+- 🌱 I’m currently learning Typescript, Socket.IO, Angular, GoLang, Data Structures & Algos
 
 - 📝 Planning to learn
     - Blockchain langs: Solidity, Rust
