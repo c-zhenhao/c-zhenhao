@@ -13,6 +13,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev!
 - 💬 Ask me about anything!
-- 📫 How to reach me: czhenhao@hotmail.com; zhenhaoc@gmail.com; [LinkedIn](https://www.linkedin.com/in/zhenhaoc/)
+- 📫 How to reach me: [Hotmail](czhenhao@hotmail.com); [Gmail](zhenhaoc@gmail.com); [LinkedIn](https://www.linkedin.com/in/zhenhaoc/)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: MBTI INFJ/P, somehow people think I am big time extrovert, but I am really not
