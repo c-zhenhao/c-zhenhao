@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-**c-zhenhao/c-zhenhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **c-zhenhao/c-zhenhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+** please dont stalk me lol!**
 
 <!-- Here are some ideas to get you started: -->
 
