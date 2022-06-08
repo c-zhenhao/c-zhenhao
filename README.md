@@ -12,7 +12,8 @@
 
 - 📝 Planning to learn
     - Blockchain langs: Solidity, Rust
-    - Google Cloud: Firebase, 
+    - Google CP/stuff: Firebase, PubSub, Flutter
+    - Apple: Swift
     - AWS: S3, SQS
     - Containers: Docker, Kubernetes
 <!-- - 👯 I’m looking to collaborate on ... -->
