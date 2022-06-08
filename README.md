@@ -12,6 +12,9 @@
 
 - 📝 Planning to learn
     - Blockchain langs: Solidity, Rust
+    - Google Cloud: Firebase, 
+    - AWS: S3, SQS
+    - Containers: Docker, Kubernetes
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 - 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev!
