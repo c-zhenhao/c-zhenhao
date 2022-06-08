@@ -10,12 +10,12 @@
 
 - 🌱 I’m currently learning Typescript, Socket.IO, RabbitMQ, GoLang, Angular, Data Structures & Algos
 
-- 📝 Planning to learn
+- 📝 Planning to learn (plz send me tips/guides):
     - Blockchain langs: Solidity, Rust
     - Google CP/stuff: Firebase, PubSub, Flutter
     - Apple: Swift
     - AWS: S3, SQS
-    - Containers: Docker, Kubernetes
+    - Containers: Docker, Kubernetes, Redis
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 - 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev!
