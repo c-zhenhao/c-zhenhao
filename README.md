@@ -18,6 +18,7 @@
     - Containers: Docker, Kubernetes
     - RDBMS: Redis (cache purposes) (Python? JS via node.JS probs)
     - Python stuff: Flask for API, other python packages for ML stuff (not super high prio)
+    - other stuff: GraphQL
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 - 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev!
