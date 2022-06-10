@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on revising my MERN stack, Python, Django, PostgreSQL
 
-- 🌱 I’m currently learning Typescript, Socket.IO, RabbitMQ, GoLang, Angular, Data Structures & Algos
+- 🌱 I’m currently learning Typescript, Socket.IO, RabbitMQ, Data Structures & Algos
 
 - 📝 Planning to learn (plz send me tips/guides):
     - Blockchain langs: Solidity, Rust
-    - Google CP/stuff: Firebase, PubSub, Flutter
+    - Google CP/stuff: Firebase, PubSub, Angular, Flutter, GoLang
     - Apple: Swift
     - AWS: S3, SQS
     - Containers: Docker, Kubernetes
