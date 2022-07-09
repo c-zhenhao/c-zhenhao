@@ -28,7 +28,4 @@
 - 📫 How to reach me: [Hotmail](mailto:czhenhao@hotmail.com); [Gmail](mailto:zhenhaoc@gmail.com); [LinkedIn](https://www.linkedin.com/in/zhenhaoc/)
 <!-- - 😄 Pronouns: ... -->
 
-- ⚡ Fun fact: MBTI INFJ/P, somehow people think I am big time extrovert, but I am really not
-- 😍 Favourite countries: 🇨🇦 Canada, 🇯🇵 Japan 
-
-- I started seriously programming in Feb 2022
+- ⚡ Fun fact: MBTI INFJ/P, somehow people think I am big time extrovert, but I am really not.
