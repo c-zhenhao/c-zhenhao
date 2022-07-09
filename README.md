@@ -12,11 +12,11 @@
 
 - 📝 Planning to learn (plz send me tips/guides):
     - Blockchain langs: Solidity, Rust
-    - Google CP/stuff: Firebase, PubSub, Angular, Flutter, GoLang
+    - GoogleCP & stuff: Firebase, PubSub, Angular, Flutter, GoLang
     - Apple: Swift
     - AWS: S3, SQS
     - Containers: Docker, Kubernetes
-    - RDBMS: Redis (cache purposes) (Python? JS via node.JS probs)
+    - RDBMS: Redis (cache purposes)
     - Python stuff: Flask for API, other python packages for ML stuff (not super high prio)
     - other stuff: GraphQL
 <!-- - 👯 I’m looking to collaborate on ... -->
