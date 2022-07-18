@@ -6,7 +6,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on revising my MERN stack, Python, Django, PostgreSQL by helping students who are going through what I did!
+- 🔭 I’m currently working on revising my MERN stack, Python, Django, PostgreSQL fundamentals by helping students who are going through what I did!
 
 - 🌱 I’m currently learning Typescript, Socket.IO, RabbitMQ, Data Structures & Algos :( send help
 
