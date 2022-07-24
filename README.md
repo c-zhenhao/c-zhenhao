@@ -2,8 +2,6 @@
 
 <!-- **c-zhenhao/c-zhenhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-#### please dont stalk me HAHA! especially SEI37 students
-
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on revising my MERN stack, Python, Django, PostgreSQL fundamentals by helping students who are going through what I did!
