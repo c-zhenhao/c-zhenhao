@@ -19,7 +19,7 @@
     - API: GraphQL
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-- 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev!
+- 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev, with the end goal of being a systems architect
 
 - 💬 Ask me about anything!
 
