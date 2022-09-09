@@ -14,7 +14,7 @@
 
 - 📝 Planning to learn (plz send me tips/guides):
     - Blockchain langs: Solidity, Rust
-    - GoogleCP & stuff: Firebase, PubSub, Angular, Flutter, GoLang
+    - GoogleCP & stuff: Firebase, PubSub, Angular(TS), Flutter
     - Apple: Swift
     - AWS: S3, SQS
     - Containers: Docker, Kubernetes
