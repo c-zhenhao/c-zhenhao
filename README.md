@@ -4,7 +4,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🤔 I’m a former investment research analyst switching to software engineering. Looking for help with full-stack development, looking to specialise in backend dev, with the end goal of being a systems architect
+- 🤔 I’m a former investment research analyst switching to software engineering. Looking for help with full-stack development and specialise in backend dev, with the end goal of being a systems architect.
 
 - 🌱 I’m currently learning Golang + Gin-gonic, possibly Elastic (Kibana) and more importantly, Data Structures & Algos :( send help
 
