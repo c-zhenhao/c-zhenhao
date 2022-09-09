@@ -4,9 +4,11 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on revising my MERN stack, Python, Django, PostgreSQL fundamentals by helping students who are going through what I did!
+- 🌱 I’m currently learning Golang + Gin-gonic and more importantly, Data Structures & Algos :( send help
 
-- 🌱 I’m currently learning Typescript, Socket.IO, RabbitMQ, Data Structures & Algos :( send help
+- 🥞 I have some experience working on the following:
+    - MongoDB, Express, React, Node.js
+    - Python, Django, PostgreSQL
 
 - 📝 Planning to learn (plz send me tips/guides):
     - Blockchain langs: Solidity, Rust
@@ -16,7 +18,8 @@
     - Containers: Docker, Kubernetes
     - RDBMS: Redis (cache purposes)
     - Python stuff: Flask for API, other python packages for ML stuff (not super high prio)
-    - API: GraphQL
+    - API: GraphQL, gRPC
+    - Other stuff: TypeScript, Socket.IO, RabbitMQ
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 - 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev, with the end goal of being a systems architect
