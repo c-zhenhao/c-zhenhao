@@ -4,6 +4,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
+- 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev, with the end goal of being a systems architect
+
 - 🌱 I’m currently learning Golang + Gin-gonic and more importantly, Data Structures & Algos :( send help
 
 - 🥞 I have some experience working on the following stacks:
@@ -20,8 +22,6 @@
     - Python stuff: Flask for API, other python packages for ML stuff (not super high prio)
     - API: GraphQL, gRPC
     - Other stuff: TypeScript, Socket.IO, RabbitMQ
-
-- 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev, with the end goal of being a systems architect
 
 - 💬 Ask me about anything!
 
