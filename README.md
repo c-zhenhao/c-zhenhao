@@ -6,7 +6,7 @@
 
 - 🤔 I’m looking for help with full-stack development, looking to specialise in backend dev, with the end goal of being a systems architect
 
-- 🌱 I’m currently learning Golang + Gin-gonic and more importantly, Data Structures & Algos :( send help
+- 🌱 I’m currently learning Golang + Gin-gonic, possibly Elastic (Kibana) and more importantly, Data Structures & Algos :( send help
 
 - 🥞 I have some experience working on the following stacks:
     - MongoDB, Express, React, Node.js
@@ -16,7 +16,7 @@
     - Blockchain langs: Solidity, Rust
     - GoogleCP & stuff: Firebase, PubSub, Angular(TS), Flutter
     - Apple: Swift
-    - AWS: S3, SQS
+    - AWS: S3, SQS, ELK, ECS
     - Containers: Docker, Kubernetes
     - RDBMS: Redis (cache purposes)
     - Python stuff: Flask for API, other python packages for ML stuff (not super high prio)
