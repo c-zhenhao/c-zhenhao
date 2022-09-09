@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Golang + Gin-gonic and more importantly, Data Structures & Algos :( send help
 
-- 🥞 I have some experience working on the following:
+- 🥞 I have some experience working on the following stacks:
     - MongoDB, Express, React, Node.js
     - Python, Django, PostgreSQL
 
