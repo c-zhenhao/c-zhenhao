@@ -26,7 +26,7 @@
 
 - 💬 Ask me about anything!
 
-- 📫 How to reach me: [Hotmail](mailto:czhenhao@hotmail.com); [Gmail](mailto:zhenhaoc@gmail.com); [LinkedIn](https://www.linkedin.com/in/zhenhaoc/)
+- 📫 How to reach me: [Linktree]([mailto:czhenhao@hotmail.com](https://linktr.ee/zhenhaoc))
 <!-- - 😄 Pronouns: ... -->
 
 - ⚡ Fun fact: MBTI INFJ/P, somehow people think I am big time extrovert, but I am really not.
