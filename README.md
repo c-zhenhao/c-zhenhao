@@ -17,7 +17,7 @@
     - GoogleCP & stuff: Firebase, PubSub, Angular(TS), Flutter
     - Apple: Swift
     - AWS: S3, SQS, ELK, ECS
-    - Containers: Docker, Kubernetes
+    - Containers: Docker + Kubernetes
     - RDBMS: Redis (cache purposes)
     - Python stuff: Flask for API, other python packages for ML stuff (not super high prio)
     - API: GraphQL, gRPC
