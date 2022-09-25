@@ -21,7 +21,7 @@
     - RDBMS: Redis (cache purposes)
     - Python stuff: Flask for API, other python packages for ML stuff (not super high prio)
     - API: GraphQL, gRPC
-    - Other stuff: TypeScript, Socket.IO, RabbitMQ
+    - Other stuff: Socket.IO, RabbitMQ
 
 - 💬 Ask me about anything!
 
