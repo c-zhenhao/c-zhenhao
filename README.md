@@ -6,7 +6,7 @@
 
 - 🤔 I’m a former investment research analyst switching to software engineering. Looking for help with full-stack development and specialise in backend dev, with the end goal of being a systems architect.
 
-- 🌱 I’m currently learning Golang + Gin-gonic, possibly Elastic (Kibana) and more importantly, Data Structures & Algos :( send help
+- 🌱 I’m currently learning Golang, Typescript, working on testing, and as well as Data Structures & Algos (:( send help)
 
 - 🥞 I have some experience working on the following stacks:
     - MongoDB, Express, React, Node.js
