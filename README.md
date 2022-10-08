@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Golang, Typescript (via Next.js), test-driven development (TDD), and as well as Data Structures & Algos (:( send help)
 
 - 🥞 I have some experience working on the following stacks:
-    - Next.js (TS), Go, Chi, CockroachDB, Redis
+    - Next.js (TS), Go (with Chi Router), CockroachDB, Redis, MongoDB
     - MongoDB, Express, React, Node.js
     - Python, Django, PostgreSQL
 
