@@ -4,7 +4,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🤔 I’m a former investment research analyst switching to software engineering. Looking for help with full-stack development and specialisation in backend dev, as my end goal is to become a systems architect, to design indestructible and scalable products.
+- 🤔 I’m a former investment research analyst switching to software engineering. Looking for help with full-stack development and specialisation in backend dev, as my end goal is to become a systems architect, with dreams of designing indestructible and scalable products.
 
 - 🌱 I’m currently learning Golang, Typescript (via Next.js), test-driven development (TDD), and as well as Data Structures & Algos (:( send help)
 
