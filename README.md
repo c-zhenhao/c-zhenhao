@@ -4,7 +4,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🤔 I’m a former investment research analyst who has successfully switched to software engineering. Looking for help with full-stack development and specialisation in backend dev.
+- 🤔 I’m a former investment research analyst who has successfully switched to software engineering. Always looking for help with full-stack development to better my craft so I can build meaningful stuff.
 
 - 🥞 I have some experience working on the following stacks: 
     - ReactNative, Next.js (TS), Go, CockroachDB, Redis, MongoDB (current stack @ work), Snowflake, AWS, Firebase
