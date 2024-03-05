@@ -6,12 +6,12 @@
 
 - 🤔 I’m a former investment research analyst who has successfully switched to software engineering. Looking for help with full-stack development and specialisation in backend dev.
 
-- 🌱 I’m currently learning Golang, Typescript (via Next.js), test-driven development (TDD), and as well as Data Structures & Algos (:( send help)
-
 - 🥞 I have some experience working on the following stacks: 
     - ReactNative, Next.js (TS), Go, CockroachDB, Redis, MongoDB (current stack @ work), Snowflake, AWS, Firebase
     - MongoDB, Express, React, Node.js
     - Python, Django, PostgreSQL
+
+- 🌱 I’m currently brushing up on Data Structures & Algos! My work alter-ego is a QA tester 😢
 
 - 📝 Planning to learn (plz send me tips/guides):
     - GCP: Firebase, PubSub, Angular(TS)
