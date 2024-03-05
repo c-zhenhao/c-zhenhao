@@ -25,5 +25,3 @@
 - 💬 Ask me about anything!
 
 - 📫 How to reach me: [Linktree](https://linktr.ee/zhenhaoc)
-
-- ⚡ Fun fact: 
