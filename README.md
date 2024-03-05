@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Golang, Typescript (via Next.js), test-driven development (TDD), and as well as Data Structures & Algos (:( send help)
 
 - 🥞 I have some experience working on the following stacks: 
-    - React Native, Next.js (TS), Go (with Chi Router), CockroachDB, Redis, MongoDB (current stack @ work)
+    - ReactNative, Next.js (TS), Go, CockroachDB, Redis, MongoDB (current stack @ work), Snowflake, AWS, Firebase
     - MongoDB, Express, React, Node.js
     - Python, Django, PostgreSQL
 
@@ -27,4 +27,4 @@
 
 - 📫 How to reach me: [Linktree](https://linktr.ee/zhenhaoc)
 
-- ⚡ Fun fact: MBTI INFJ, somehow people think I am big time extrovert, but I am really not.
+- ⚡ Fun fact: 
