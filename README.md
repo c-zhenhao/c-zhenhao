@@ -11,7 +11,7 @@
     - MongoDB, Express, React, Node.js
     - Python, Django, PostgreSQL
 
-- 🌱 I’m currently brushing up on Data Structures & Algos! My work alter-ego is a QA tester 😢
+- 🌱 I’m currently brushing up on Data Structures & Algos! My work alter-ego is a QA engineer 😆
 
 - 📝 Planning to learn (plz send me tips/guides):
     - GCP: Firebase, PubSub, Angular(TS)
