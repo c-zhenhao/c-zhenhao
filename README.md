@@ -14,11 +14,11 @@
 - 🌱 I’m currently brushing up on Data Structures & Algos! I'm masquerading as a QA engineer 🫠
 
 - 📝 Planning to learn (plz send me tips/guides):
-    - More GCP related functionalities, Angular(TS)
+    - More GCP related functionalities
+    - Containers: Docker + Kubernetes
+    - Python stuff: Flask for API, other python packages for ML stuff
     - AWS: S3, SQS, ELK, ECS
     - Blockchain langs: Solidity, Rust
-    - Containers: Docker + Kubernetes
-    - Python stuff: Flask for API, other python packages for ML stuff (not super high prio)
     - API: GraphQL, gRPC
     - Other stuff: Socket.IO
 
