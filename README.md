@@ -7,7 +7,7 @@
 - 🤔 I’m a former investment research analyst who has successfully switched to software engineering. Always looking for help with full-stack development to better my craft so I can build meaningful stuff.
 
 - 🥞 I have some experience working on the following stacks: 
-    - ReactNative, Next.js (TS), Go, CockroachDB, Redis, MongoDB (current stack @ work), Snowflake, AWS, Firebase, Swift (for iOS dev), Kotlin/Java (for Android dev)
+    - React-native, Next.js (TS), Go, CockroachDB, Redis, MongoDB (current stack @ work), Snowflake, AWS, Firebase, Swift (for iOS dev), Kotlin/Java (for Android dev)
     - MongoDB, Express, React, Node.js
     - Python, Django, PostgreSQL
 
