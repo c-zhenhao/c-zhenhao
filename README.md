@@ -11,7 +11,7 @@
     - MongoDB, Express, React, Node.js
     - Python, Django, PostgreSQL
 
-- 🌱 I’m currently brushing up on Data Structures & Algos! I'm masquerading as a QA engineer 🫠
+- 🌱 I’m currently brushing up on Data Structures & Algos! I'm masquerading as a QA engineer + Solutions Architect 🫠
 
 - 📝 Planning to learn (plz send me tips/guides):
     - More GCP related functionalities
