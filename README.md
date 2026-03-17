@@ -3,6 +3,7 @@
 - 🥞 I have some experience working on the following stacks:
     - PHP (Hack) @ Meta
     - React-native, Next.js (TS), Go, CockroachDB, Redis, MongoDB, Snowflake, AWS, Firebase, Swift, Kotlin/Java
+    - Vercel + Supabase
     - MongoDB, Express, React, Node.js
     - Python, Django, PostgreSQL
 
