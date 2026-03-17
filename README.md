@@ -2,7 +2,7 @@
 
 - 🥞 I have some experience working on the following stacks:
     - PHP (Hack) @ Meta
-    - React-native, Next.js (TS), Go, CockroachDB, Redis, MongoDB (current stack @ work), Snowflake, AWS, Firebase, Swift (for iOS dev), Kotlin/Java (for Android dev)
+    - React-native, Next.js (TS), Go, CockroachDB, Redis, MongoDB, Snowflake, AWS, Firebase, Swift, Kotlin/Java
     - MongoDB, Express, React, Node.js
     - Python, Django, PostgreSQL
 
