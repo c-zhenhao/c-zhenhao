@@ -1,4 +1,4 @@
-- 🤔 I'm currently in Sem 2 Master of Computing in NUS. I was formerly in investment research but pivoted to tech after realising I enjoyed coding and automation more than finance. Lowkey regretting it but now I'm blending all these knowledge together with AI.
+- 🤔 I'm currently in Sem 2 Master of Computing in NUS. I was formerly in investment research but pivoted to tech after realising I enjoyed coding, solving problems more than finance. Lowkey regretting it but now I'm blending all these knowledge together with AI.
 
 - 🥞 I have some experience working on the following stacks:
     - PHP (Hack) @ Meta
