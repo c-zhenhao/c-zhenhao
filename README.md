@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently brushing up on Data Structures & Algos! Also going through CKAD and AWS SAA.
 
-- 💬 Ask me about anything!
-
 - 📫 How to reach me: [Linktree](https://linktr.ee/zhenhaoc)
 
 - 🫠 Leetcode Profile: https://leetcode.com/u/c-zhenhao/
