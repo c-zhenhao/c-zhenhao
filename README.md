@@ -1,7 +1,7 @@
 - 🤔 I'm currently in Sem 2 Master of Computing in NUS. I was formerly in investment research but pivoted to tech after realising I enjoyed coding, solving problems more than finance. Lowkey regretting it but now I'm blending all these knowledge together with AI.
 
 - 🥞 I have some experience working on the following stacks:
-    - PHP (Hack) @ Meta
+    - PHP (Hack) @ Meta, currently there and crying over the mess with AI taking over Meta
     - React-native, Next.js (TS), Go, CockroachDB, Redis, MongoDB, Snowflake, AWS, Firebase, Swift, Kotlin/Java
     - Vercel + Supabase
     - MongoDB, Express, React, Node.js
